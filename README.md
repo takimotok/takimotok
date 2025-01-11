@@ -46,7 +46,7 @@
 
 ### :telescope: Frameworks
 
-[![Skills Web](https://skillicons.dev/icons?i=jquery,vue,laravel,nextjs,nestjs)](https://skillicons.dev)
+[![Skills Web](https://skillicons.dev/icons?i=jquery,vue,laravel,nextjs,nestjs,astro)](https://skillicons.dev)
 
 ### :hammer: Tools
 
