@@ -18,9 +18,7 @@
 
 ### Recent Activities
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=takimotok&theme=transparent&hide_border=true" /></a>
-</p>
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takimotok&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## :hammer: Languages and Tools
 
